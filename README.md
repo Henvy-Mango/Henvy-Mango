@@ -1,4 +1,4 @@
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Henvy-Mango&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="500">
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Henvy-Mango&show_icons=true&include_all_commits=true&count_private=true" width="500">
 
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henvy-Mango&hide=vim%20script,batchfile,html,css&layout=compact" width="500">
 
