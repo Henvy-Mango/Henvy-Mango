@@ -1,18 +1,16 @@
-<!-- ### Hi there 👋 -->
-[![github stats](https://github-readme-stats.vercel.app/api?username=Henvy-Mango&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Henvy-Mango)
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Henvy-Mango&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="500">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henvy-Mango&hide=vim%20script,html,css&layout=compact)](https://github.com/Henvy-Mango)
-<!--
-**Henvy-Mango/Henvy-Mango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hi there 👋
-Here are some ideas to get you started:
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henvy-Mango&hide=vim%20script,batchfile,html,css&layout=compact" width="500">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there, this is Henvy-Mango 👋
+
+- 🔭 I’m currently working on Java and Python development
+- 🌱 I’m currently learning SpringCloud
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about anything tech related, I am happy to help;
+- 📫 It's OK to reach me through the email on this page;
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I like rebasing and `--force` pushing my commits 😹
+
+<img alt="Genshin game card" src="https://genshin-card.getloli.com/27,49,53/279606432.png" width="500">
