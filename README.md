@@ -9,6 +9,8 @@
 - 💬 Ask me about anything tech related, I am happy to help;
 - 📫 It's OK to reach me through the email on this page;
 - ⚡ Fun fact: I like rebasing and `--force` pushing my commits 😹
-<!-- - 👯 I’m looking to collaborate on ... --><!-- - 🤔 I’m looking for help with ... --><!-- - 😄 Pronouns: ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 😄 Pronouns: ... -->
 
-<img alt="Genshin game card" src="https://genshin-card.getloli.com/27,49,53/279606432.png" width="500">
+<!-- <img alt="Genshin game card" src="https://genshin-card.getloli.com/27,49,53/279606432.png" width="500"> -->
