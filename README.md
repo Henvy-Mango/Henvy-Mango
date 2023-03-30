@@ -3,8 +3,8 @@
 
 ### Hi there, this is Henvy-Mango 👋
 
-- 💬 Ask me about anything tech related, I am happy to help;
-- 📫 It's OK to reach me through the email on this page;
+- 💬 Ask me about anything tech related, I am happy to help
+- 📫 It's OK to reach me through [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@naomi233_bot&color=0088cc)](https://t.me/naomi233_bot)
 - ⚡ Fun fact: I like rebasing and `--force` pushing my commits 😹
 <!-- - 🔭 I’m currently working on Java -->
 <!-- - 🌱 I’m currently learning Kotlin -->
