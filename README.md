@@ -12,4 +12,4 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 
-<img src="https://counter.seku.su/cmoe?name=Henvy-Mango&theme=r34">
+![counter](https://count.getloli.com/get/@Henvy-Mango?theme=asoul)
